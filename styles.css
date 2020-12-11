@@ -1,0 +1,14 @@
+@import url("https://fonts.googleapis.com/css2?family=Audiowide&display=swap");
+
+.App {
+  max-width: 600px;
+  text-align: center;
+  margin: auto;
+}
+body {
+  font-family: "Audiowide", cursive;
+  background-color: #134e4a;
+  color: white;
+  font-style: normal;
+  font-weight: 400;
+}
