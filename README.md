@@ -1,2 +1,2 @@
 # flagpedia
-Created with CodeSandbox
+Created with ReactJs
